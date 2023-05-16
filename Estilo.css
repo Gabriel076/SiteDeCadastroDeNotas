@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+}
+html, body {
+    height: 100%;
+    background-image: url('https://www.appai.org.br/wp-content/uploads/2020/10/02-revista-appai-educar-aluno-pouco-temp.jpg');
+    background-size: cover;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.escolha{
+    background-color:rgba(219, 213, 213, 0.848);
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    border-radius: 6%;
+    justify-content: center;
+    align-items: center;
+     
+}
+.textdiv{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 1cm;
+  margin-top: 19%;
+  font-family: Arial;
+  font-size: 20px;
+  line-height: 30px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+
+}
+.titulo{
+    font-family: Arial;
+    text-align:center;
+    font-size: 13px;
+    height: 400px;
+    margin-top: 22%;
+    color:rgb(0, 0, 0);
+
+}
+.espaco{
+    width: 1cm;
+
+}
+button{
+  width: 4cm;
+  height: 1cm;
+  border-radius: 10px;
+  font-family: Arial;
+}
+.altura{
+  height: 0.5cm;
+}

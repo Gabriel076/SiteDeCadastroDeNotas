@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+.conteiner{
+    height: 2cm;
+    background-color: #1e558d;
+    display: flex;
+    justify-content: space-around;
+}
+.titulo{
+
+    width: 15cm;
+    align-items: center;
+    display: flex;
+    align-items: center;
+}
+.sair{
+    width: 15cm;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sair button{
+    width: 7.2cm;
+    height:1cm ;
+    border-radius: 6px;
+}
+.espaco{
+    height: 2cm;
+}
+.conteudo{
+    height: 14cm;
+    display: flex;
+    justify-content: center;
+}
+.tabela{
+    height: 14cm;
+    width: 90%;
+    background-color:rgba(219, 213, 213, 0.848);
+    border-radius: 8px;
+
+}
+.tabela h2{
+    font-family: Arial;
+    font-size: 23px;
+}
+.tabela table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    font-family: Arial;
+    font-size: 13px;
+    text-align: center;
+}
+.tabela td,th{
+    border: 1px solid black;
+    padding: 8px;
+}

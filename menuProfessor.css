@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+body {
+    background-color: #1e558d;
+    background-image: linear-gradient(to bottom, #1e558d, #99ccff);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+.menuProfessor{
+    height: 2.3cm;
+    display: flex;
+    justify-content: space-around;
+}
+.voltar{
+    width: 6cm;
+    height: 2cm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.voltar button{
+    width: 7.2cm;
+    height:1cm ;
+    border-radius: 6px;
+    font-family: Arial;
+    font-size: 13px;
+}
+.titulo1{
+    width: 7cm;
+}
+.menuProfessor p{
+    font-family: 'Arial';
+    font-size: 23px;
+    display: flex;
+    align-items: center;
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
+.conteiner{
+    height: 16cm;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.div1{
+    height: 100%;
+    width: 13cm;
+    border-radius: 6%;
+    background-color:rgba(219, 213, 213, 0.848);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div2{
+    height: 100%;
+    width: 13cm;
+    border-radius: 6%;
+    background-color:rgba(219, 213, 213, 0.848);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div1 p{
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+}
+.div2 p{
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+}
+.div1 input{
+    font-family: Arial;
+    font-size: 15px;
+    width: 7cm;
+    height: 1cm;
+    border-radius: 7px;
+}
+.div2 input{
+    font-family: Arial;
+    font-size: 15px;
+    width: 7cm;
+    height: 1cm;
+    border-radius: 7px;
+}
+.div1 button{
+    width: 7.2cm;
+    height:1cm ;
+}
+.div2 button{
+    width: 7.2cm;
+    height:1cm ;
+}
+.espaco{
+    height: 1cm;
+}

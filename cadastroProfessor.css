@@ -1,0 +1,54 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url('https://www.iq.com.br/wp-content/uploads/2019/01/shutterstock_207418525-770x478.jpg');
+    background-size: cover;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 16cm;
+    margin-top: 1.5cm;
+    justify-content: space-around;
+}
+.titulopag{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.telaCadastro{
+    height: 100%;
+    width: 35%;
+    background-color:rgba(219, 213, 213, 0.848);
+    border-radius: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-family: Arial;
+}
+p{
+    font-family: Arial;
+    font-size: 20px;
+}
+input{
+    height: 1cm;
+    width: 7cm;
+    border-radius: 10px;
+    font-size: 15px;
+}
+button{
+    height: 1cm;
+    width: 7.2cm;
+    border-radius: 10px;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
